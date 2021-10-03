@@ -1,0 +1,2 @@
+Training character error rate of the model: 8.654728%
+Training Accuracy: 91.345272%
